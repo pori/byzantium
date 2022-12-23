@@ -1,0 +1,33 @@
+TO ADD:
+Functional Battlefied Menu
+-spell
+-Inventory
+	-use (if it's an equip-able item, equip it)
+	-trade (with other character or just hand it to them)
+	-observe (describes the item's function)
+	-drop
+-talk 
+
+Functional Store Menu
+-[purchasable object] [price]
+-...
+-sell
+	-[sellable object] [price]
+	-...
+	
+Functional Unit Management
+-active
+-reserves
+
+shop upgrade benefits -modified CityState class
+add duration of turns for status ailments
+fortresses placed around the map can up the defense of characters standing over them
+altars around the map can up the magic for characters standing over them
+make a "lock in" for dialogue so that a user can only to talk to one character at a time
+
+TO FIX:
+
+NOTES: 
+-When a unit dies, leave a gravestone, like in Worms
+-It would be interesting for different unit classes to have different movement patterns, like in chess
+-Conversations between characters could be centered around trash talk; the character who loses ends up with a lower accuracy because they're mad
