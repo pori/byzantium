@@ -22,7 +22,7 @@ revival of such games! (But not the death of Flash. RIP)
 > Cool! Can you tell me how it was built?
 
 The code is written in ActionScript and uses a then-popular game engine called
-Flixel.
+Flixel. I used the [FlashDevelop](https://www.flashdevelop.org/) IDE.
 
 Everything is divided up into classes under [./src](./src):
 
